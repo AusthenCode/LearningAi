@@ -7,8 +7,6 @@ paginate: true
 
 # AI in Control Engineering
 
-## How Artificial Intelligence is Transforming Automation
-
 ---
 
 ## What is Control Engineering?
@@ -19,7 +17,6 @@ Control engineers design systems that:
 - Maintain stability and efficiency
 
 Examples:
-- Manufacturing robots
 - Conveyor systems
 - Temperature & pressure control
 - Autonomous vehicles
@@ -30,13 +27,13 @@ Examples:
 
 AI enhances traditional control systems by:
 
-- 🤖 **Predictive Maintenance**
+- **Predictive Maintenance**
   - Detects failures before they happen
-- 📊 **System Optimization**
+- **System Optimization**
   - Learns the best control parameters
-- 🧠 **Adaptive Control**
+- **Adaptive Control**
   - Adjusts behavior in real-time
-- ⚠️ **Fault Detection**
+- **Fault Detection**
   - Identifies abnormal system behavior
 
 ---
@@ -44,10 +41,7 @@ AI enhances traditional control systems by:
 ## Real-World Applications
 
 - Smart factories
-- Robotics and automation
-- Traffic and transportation systems
-- Energy and power grids
-- Process control (chemical plants, oil refineries)
+- Using AI in tracking systems
 
 ---
 
@@ -69,15 +63,9 @@ AI will allow systems to:
 - Make autonomous decisions
 - Reduce human error
 
-**AI + Control Engineering = Smarter Systems**
 
 ---
 
 ## Conclusion
 
-Artificial Intelligence is becoming a powerful tool for control engineers by:
-- Improving performance
-- Predicting problems
-- Enabling intelligent automation
-
-The future of engineering is adaptive, data-driven, and autonomous.
+Questions?
