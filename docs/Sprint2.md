@@ -1,7 +1,6 @@
 ---
 marp: true
-title: Current AI in Controls Engineering Industry
-theme: default
+size: 4:3
 paginate: true
 ---
 
@@ -24,7 +23,7 @@ AI is being integrated into control systems to address and fix common challenges
 
 - **Process Optimization Fixes**
   - Implementing AI algorithms to automatically adjust controls, fixing inefficiencies and waste
-
+---
 - **Quality Control Enhancements**
   - Integrating computer vision AI to detect defects, fixing quality issues in production
 
@@ -35,11 +34,8 @@ AI is being integrated into control systems to address and fix common challenges
   - Adding AI to virtual models for testing, fixing design flaws before real-world implementation
 
 ---
-
 ## Traditional Methods vs. AI Improvements
-
-Comparing what was done before AI integration and how AI addresses or minimizes the problems:
-
+---
 - **Predictive Maintenance**
   - **Before**: Scheduled maintenance based on time or usage estimates, leading to unnecessary costs or unexpected failures
   - **AI Fixes**: Monitors real-time data to predict failures, minimizing downtime and optimizing maintenance schedules
@@ -47,14 +43,16 @@ Comparing what was done before AI integration and how AI addresses or minimizes 
 - **Process Optimization**
   - **Before**: Manual tuning of control parameters based on experience, often suboptimal and inefficient
   - **AI Fixes**: Learns optimal parameters from data, automatically adjusting to minimize waste and improve efficiency
-
+---
 - **Quality Control**
   - **Before**: Human inspection or basic sensors, prone to errors and limited coverage
   - **AI Fixes**: Uses computer vision to detect defects accurately, ensuring consistent quality and reducing rejects
 
+
 - **Autonomous Systems**
   - **Before**: Pre-programmed behaviors that struggle with unpredictable environments
   - **AI Fixes**: Adapts in real-time using reinforcement learning, minimizing limitations in dynamic situations
+---
 
 - **Digital Twins**
   - **Before**: Static simulations without real-time learning, missing potential issues
@@ -73,14 +71,17 @@ Comparing what was done before AI integration and how AI addresses or minimizes 
 - **Enhanced Safety**
   - Predicts and prevents accidents
   - Reduces human error in critical operations
-
+---
 - **Cost Savings**
   - Lowers maintenance costs through predictive analytics
   - Improves productivity and reduces downtime
 
+
 - **Innovation and Scalability**
   - Enables complex system designs
   - Scales operations with data-driven insights
+
+---
 
 - **Data-Driven Decision Making**
   - Provides real-time analytics for better choices
@@ -99,7 +100,7 @@ Comparing what was done before AI integration and how AI addresses or minimizes 
 - **Job Displacement**
   - Automates jobs, potentially leading to unemployment
   - Shifts workforce needs to AI specialists
-
+---
 - **Cybersecurity Risks**
   - AI systems vulnerable to hacking and manipulation
   - Critical infrastructure at risk if compromised
@@ -107,7 +108,7 @@ Comparing what was done before AI integration and how AI addresses or minimizes 
 - **Data Dependency**
   - Relies on large amounts of quality data
   - Poor data can lead to inaccurate predictions
-
+---
 - **Ethical and Regulatory Concerns**
   - Privacy issues with data collection
   - Lack of transparency in AI decision-making
